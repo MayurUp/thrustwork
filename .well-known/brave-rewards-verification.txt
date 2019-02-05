@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: thrustwork.herokuapp.com
+Token: 2ea94d6e3b0e92dbec61c505c9ebc293e82beea7a369390156cc596a0f4e109d
